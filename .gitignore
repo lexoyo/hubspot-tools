@@ -1,0 +1,7 @@
+.git
+.env
+package-lock.json
+yarn.lock
+node_modules
+hubspot.config.yml
+pages.json
